@@ -1,0 +1,22 @@
+ f#header {
+    background-color: blue;
+    color: white;
+    width: auto;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+body {
+    background-color: rgb(216, 241, 233);
+    margin: center;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+#content {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#float {
+    float:right;
+    color: white;
+    font-size: 20px;
+}

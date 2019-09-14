@@ -1,0 +1,64 @@
+ 
+body {
+    background-color: greenyellow;
+    ;
+}
+#content {
+    background-color: white;
+    height: 400px;
+    width: 1000px;
+    margin: 2px;
+
+    border: 1px
+}
+#header {
+    background-color: aqua;
+    height: 50px;
+    width: 1000px;
+    color: white;
+
+}
+#main {
+    background-color: green;
+    color: white;
+    height:200px;
+    width: 300px;
+    margin-left: 150px;
+    float: left;
+    margin-bottom: 2px;
+}
+#sidebar {
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    margin-right: 150px;
+    float: left;
+    margin-left: 2px;
+    margin-bottom: 2px;
+}
+#twin {
+    background-color: orange;
+    width: 250px;
+    height: 200px;
+    margin-left: 150px;
+    float: left;
+    clear: both;
+    margin-bottom: 2px;
+}
+#twi {
+    background-color: orange;
+    width: 250px;
+    height: 200px;
+    margin-right: 150px;
+    margin-left: 2px;
+    float: left;
+    margin-bottom: 2px;
+}
+#footer {
+    background-color: blue;
+    width: 1000px;
+    height: 100px;
+    clear: both;
+    margin: 2px;
+}
+
